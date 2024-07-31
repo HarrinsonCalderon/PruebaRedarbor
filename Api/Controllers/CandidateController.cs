@@ -35,23 +35,23 @@ namespace Api.Controllers
             return lista.ToList();
         }
 
-        [HttpGet("GetCandidateExperiencia")]
-        public IEnumerable<CandidateExperienceDTO> GetCandidateExperiencia()
+        [HttpGet("GetCandidateExperience")]
+        public IEnumerable<CandidateExperienceDTO> GetCandidateExperience()
         {
             var lista = _candidateService.GetCandidateExperience().Select(e => (Mapear.MapearCandidateExperienceACandidateExperienceDTO(e)));
              return lista.ToList();
         }
 
-        [HttpGet("GetCandidateExperienciaDetalle")]
-        public IActionResult GetCandidateExperienciaDetalle()
+        [HttpGet("GetCandidateExperienceDetail")]
+        public IActionResult GetCandidateExperienciaDetail()
         {
             var lista = _candidateService.GetCandidateExperienceDetail();
               return Ok(lista);
         }
 
 
-        [HttpPost("PostCandidateExperienciaDetalle")]
-        public IActionResult PostCandidateExperienciaDetalle([FromBody] CandidateExperiencceDetaillDTO candidateExperiencceDetaill)
+        [HttpPost("PostCandidateExperienciaDetail")]
+        public IActionResult PostCandidateExperienceDetail([FromBody] CandidateExperiencceDetaillDTO candidateExperiencceDetaill)
         {
             var model = Mapear.MapearCandidateExperiencceDetaillDTO(candidateExperiencceDetaill);
             var rta = _candidateService.PostCandidateExperience(model);
@@ -59,16 +59,16 @@ namespace Api.Controllers
         }
 
 
-        [HttpPut("PutCandidateExperienciaDetalle")]
-        public IActionResult PutCandidateExperienciaDetalle([FromBody] CandidateExperiencceDetaillDTO candidateExperiencceDetaill)
+        [HttpPut("PutCandidateExperienciaDetail")]
+        public IActionResult PutCandidateExperienceDetail([FromBody] CandidateExperiencceDetaillDTO candidateExperiencceDetaill)
         {
             var model = Mapear.MapearCandidateExperiencceDetaillDTO(candidateExperiencceDetaill);
             var rta = _candidateService.PutCandidateExperience(model);
              return Ok(rta);
         }
 
-        [HttpDelete("DeleteCandidateExperiencia")]
-        public IActionResult DeleteCandidateExperiencia(string Id)
+        [HttpDelete("DeleteCandidateExperience")]
+        public IActionResult DeleteCandidateExperience(string Id)
         {
              var rta = _candidateService.DeleteCandidateExperience(Id);
              return Ok(rta);
