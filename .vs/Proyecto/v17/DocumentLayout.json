@@ -1,0 +1,129 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\Desktop\\PruebaRedarbor\\Proyecto\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9CCB1EE0-A9D1-46F8-B907-219724C80885}|Api\\Api.csproj|c:\\users\\usuario\\desktop\\pruebaredarbor\\proyecto\\api\\controllers\\candidatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CCB1EE0-A9D1-46F8-B907-219724C80885}|Api\\Api.csproj|solutionrelative:api\\controllers\\candidatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DB6D690-735E-41FA-A10F-05D89F4AD0CB}|Application\\Application.csproj|c:\\users\\usuario\\desktop\\pruebaredarbor\\proyecto\\application\\interfaces\\icandidateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DB6D690-735E-41FA-A10F-05D89F4AD0CB}|Application\\Application.csproj|solutionrelative:application\\interfaces\\icandidateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DB6D690-735E-41FA-A10F-05D89F4AD0CB}|Application\\Application.csproj|c:\\users\\usuario\\desktop\\pruebaredarbor\\proyecto\\application\\services\\candidateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DB6D690-735E-41FA-A10F-05D89F4AD0CB}|Application\\Application.csproj|solutionrelative:application\\services\\candidateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{529ED45B-FDEE-4EE2-A62D-FF2F63E5DF76}|Data\\Data.csproj|c:\\users\\usuario\\desktop\\pruebaredarbor\\proyecto\\data\\repositorio\\candidaterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{529ED45B-FDEE-4EE2-A62D-FF2F63E5DF76}|Data\\Data.csproj|solutionrelative:data\\repositorio\\candidaterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F6CA8D9-9247-47FC-8810-11ACC780F501}|Domain\\Domain.csproj|c:\\users\\usuario\\desktop\\pruebaredarbor\\proyecto\\domain\\interfaces\\icandidaterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F6CA8D9-9247-47FC-8810-11ACC780F501}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\icandidaterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 250,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ICandidateService.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\PruebaRedarbor\\Proyecto\\Application\\Interfaces\\ICandidateService.cs",
+              "RelativeDocumentMoniker": "Application\\Interfaces\\ICandidateService.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\PruebaRedarbor\\Proyecto\\Application\\Interfaces\\ICandidateService.cs",
+              "RelativeToolTip": "Application\\Interfaces\\ICandidateService.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAlwA0AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T02:31:37.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CandidateService.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\PruebaRedarbor\\Proyecto\\Application\\Services\\CandidateService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\CandidateService.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\PruebaRedarbor\\Proyecto\\Application\\Services\\CandidateService.cs",
+              "RelativeToolTip": "Application\\Services\\CandidateService.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwBsAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T02:31:04.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CandidateRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\PruebaRedarbor\\Proyecto\\Data\\Repositorio\\CandidateRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Repositorio\\CandidateRepository.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\PruebaRedarbor\\Proyecto\\Data\\Repositorio\\CandidateRepository.cs",
+              "RelativeToolTip": "Data\\Repositorio\\CandidateRepository.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAAwCoAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T02:25:14.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ICandidateRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\PruebaRedarbor\\Proyecto\\Domain\\Interfaces\\ICandidateRepository.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\ICandidateRepository.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\PruebaRedarbor\\Proyecto\\Domain\\Interfaces\\ICandidateRepository.cs",
+              "RelativeToolTip": "Domain\\Interfaces\\ICandidateRepository.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T02:24:41.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CandidateController.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\PruebaRedarbor\\Proyecto\\Api\\Controllers\\CandidateController.cs",
+              "RelativeDocumentMoniker": "Api\\Controllers\\CandidateController.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\PruebaRedarbor\\Proyecto\\Api\\Controllers\\CandidateController.cs",
+              "RelativeToolTip": "Api\\Controllers\\CandidateController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T02:22:16.834Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 209,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 52,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
